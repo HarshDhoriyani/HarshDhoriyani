@@ -128,7 +128,6 @@
   
   <p align="center">
     <img src="https://img.shields.io/badge/Solved-250+%2B%20Problems-brightgreen?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Coding%20Score-2000%2B-blue?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Courses-5%2B%20Completed-orange?style=for-the-badge" />
   </p>
 </div>
