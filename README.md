@@ -209,7 +209,7 @@
 
 ## Resume
 <p align="center">
-  <a href="https://github.com/HarshDhoriyani/HarshDhoriyani/blob/main/Harsh%20Dhoriyani%20Resume.pdf">
+  <a href="https://raw.githubusercontent.com/HarshDhoriyani/HarshDhoriyani/main/Harsh Dhoriyani Resume.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
   </a>
 </p>
