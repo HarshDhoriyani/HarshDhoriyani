@@ -189,7 +189,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=HarshDhoriyani&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=HarshDhoriyani&theme=radical)](https://git.io/streak-stats)"/>
   </a>
 </p>
 
