@@ -161,26 +161,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## Open Source Repositories
-<div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/HarshDhoriyani/Java-Script">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshDhoriyani&repo=Java-Script&theme=radical&hide_border=true"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/HarshDhoriyani/DSA-Concepts-in-Java">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshDhoriyani&repo=DSA-Concepts-in-Java&theme=radical&hide_border=true"/>
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 ## GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshDhoriyani&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&line_height=24"/>
