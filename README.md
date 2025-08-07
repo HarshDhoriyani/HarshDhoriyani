@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   </a>
     <a href="https://mongoosejs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/mongoose.js-%23EE4C2C.svg?style=for-the-badge&logo=express&logoColor=white" alt="Mongoose.js" />
+    <img src="https://img.shields.io/badge/mongoose.js-%23EE4C2C.svg?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose.js" />
   </a>
   <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank">
