@@ -58,6 +58,9 @@
     <a href="https://mongoosejs.com/" target="_blank">
     <img src="https://img.shields.io/badge/mongoose.js-%23EE4C2C.svg?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose.js" />
   </a>
+  <a href="https://www.npmjs.com/package/dotenv" target="_blank">
+    <img src="https://img.shields.io/badge/dotenv-%23121011.svg?style=for-the-badge&logo=dotenv&logoColor=white" alt="dotenv" />
+  </a>
   <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
