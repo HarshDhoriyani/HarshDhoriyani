@@ -3,7 +3,7 @@
 <h1 align="center">Hello Everyone! I'm <span style="color:#54A6FF">Harsh Dhoriyani</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=500&lines=DSA;Open+Source;Full+Stack+Developer;Problem+Solver;AI+%26+ML+Enthusiast;Data+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=500&lines=DSA;Full+Stack+Developer;Problem+Solver;AI+%26+ML+Enthusiast;Data+Science" alt="Typing SVG" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
