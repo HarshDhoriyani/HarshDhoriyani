@@ -115,12 +115,6 @@
   <a href="https://learn.microsoft.com/en-us/windows/terminal/" target="_blank">
     <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
   </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  </a>
-  <a href="https://www.canva.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  </a>
 </p>
 
 
