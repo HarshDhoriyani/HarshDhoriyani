@@ -156,6 +156,13 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/HarshDhoriyani/Swasthya-mitra">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshDhoriyani&repo=Swasthya-mitra&theme=radical&hide_border=true"/>
+      </a>
+    </td>
+  </tr>
 </table>
 </div>
 
