@@ -151,8 +151,8 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/HarshDhoriyani/AdX-Analytics-Unveiling-Digital-Performance">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshDhoriyani&repo=AdX-Analytics-Unveiling-Digital-Performance&theme=radical&hide_border=true"/>
+      <a href="https://github.com/HarshDhoriyani/civicspot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshDhoriyani&repo=civicspot&theme=radical&hide_border=true"/>
       </a>
     </td>
   </tr>
