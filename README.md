@@ -1,4 +1,4 @@
-# Hi, I'm Harsh 👋
+# Hi, I'm Harsh Dhoriyani 👋
 
 ## 🚀 Projects
 - 🔗 [Swasthya Mitra](https://github.com/HarshDhoriyani/Swasthya-mitra) — AI-powered healthcare assistance system  
