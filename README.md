@@ -63,7 +63,6 @@ Git • GitHub • Vercel • Netlify • Cloudinary • AWS (Basic) • Jupyter
 - 💼 [LinkedIn](https://www.linkedin.com/in/harsh-dhoriyani-82766b295/)
 - 🐦 [Twitter](https://x.com/HarshDhoriyani)
 - 💻 [GitHub](https://github.com/HarshDhoriyani)
-- 🧠 [LeetCode](https://leetcode.com/u/Harsh_Dhoriyani/)
 
 ---
 
