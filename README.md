@@ -1,11 +1,10 @@
 # Hi, I'm Harsh Dhoriyani 👋
 
 ## 🚀 Projects
-- 🔗 [Swasthya Mitra](https://github.com/HarshDhoriyani/Swasthya-mitra) — AI-powered healthcare assistance system  
-- 🔗 [EventSnap](https://github.com/HarshDhoriyani/eventsnap) — Event management & photo sharing platform  
+- 🔗 [SpectraPi-PCAM-Precision-Steering](https://github.com/HarshDhoriyani/SpectraPi-PCAM-Precision-Steering) — Precision-Controlled Associative Memory
+- 🔗 [Swasthya Mitra](https://github.com/HarshDhoriyani/Swasthya-mitra) — AI-powered healthcare assistance system
+- 🔗 [CivicSpot](https://github.com/HarshDhoriyani/civicspot) — Civic issue reporting platform   
 - 🔗 [GrowFit AI](https://github.com/HarshDhoriyani/GrowFit-AI-Crop-Price-Prediction-System) — Crop price prediction using ML  
-- 🔗 [CivicSpot](https://github.com/HarshDhoriyani/civicspot) — Civic issue reporting platform  
-
 ---
 
 ## 💫 About Me
