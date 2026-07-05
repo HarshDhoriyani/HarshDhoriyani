@@ -18,13 +18,13 @@
 
 ## 🛠️ Tech Stack
 **Languages:**  
-Java • TypeScript • Python • JavaScript  
+Java • Python • JavaScript  
 
 **Frontend:**  
-HTML5 • CSS3 • ReactJs • NextJs • Bootstrap • TailwindCSS 
+HTML5 • CSS3 • ReactJs • TailwindCSS 
 
 **Backend:**  
-NodeJs • ExpressJs • MongoDB • MySQL • Docker • Spring Boot • RESTful APIs  
+NodeJs • ExpressJs • MongoDB • MySQL • Docker   
 
 **AI/ML:**  
 TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy  
