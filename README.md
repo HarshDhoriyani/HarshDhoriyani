@@ -54,7 +54,7 @@ Git • GitHub • Vercel • Netlify • Cloudinary • AWS (Basic) • Jupyter
 ---
 
 ## 📄 Resume
-[Download Resume](https://raw.githubusercontent.com/HarshDhoriyani/HarshDhoriyani/main/Harsh%20Dhoriyani%20Resume.pdf)
+[Download Resume](https://github.com/HarshDhoriyani/HarshDhoriyani/blob/main/Harsh%20Dhoriyani%20-%20Resume.pdf)
 
 ---
 
