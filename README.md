@@ -34,10 +34,6 @@ Git • GitHub • Vercel • Netlify • Cloudinary • AWS (Basic) • Jupyter
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HarshDhoriyani&theme=radical&hide_border=true" />
-</p>
 
 <p align="center">
   <a href="https://leetcode.com/u/Harsh_Dhoriyani/">
@@ -48,7 +44,7 @@ Git • GitHub • Vercel • Netlify • Cloudinary • AWS (Basic) • Jupyter
 ---
 
 ## 🧠 Coding
-- ✅ 250+ Problems Solved (LeetCode)
+- ✅ 300+ Problems Solved (LeetCode)
 - 📚 5+ Courses Completed  
 
 ---
