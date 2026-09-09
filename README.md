@@ -9,9 +9,9 @@
 ---
 
 ## 💫 About Me
-- 💻 Working on **Machine Learning & Full Stack Development**
-- 🌱 Learning **Frontend + AI/ML**
-- 🎯 Looking for **Internships (AIML / Data Science / Full Stack)**
+- 💻 Working on **Full Stack Development**
+- 🌱 Learning **Machine Learning**
+- 🎯 Looking for **Internships & Jobs (Full Stack / Frontend / Backend)**
 - 📫 Email: **harshdhoriyani03@gmail.com**
 - ⚡ Interests: Cricket & Table Tennis  
 
@@ -31,7 +31,7 @@ NodeJs • ExpressJs • MongoDB • MySQL • Docker
 TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy  
 
 **Tools:**  
-Git • GitHub • Vercel • Netlify • Cloudinary • AWS (Basic) • Jupyter Notebook   
+Git • GitHub • Vercel • Netlify • Cloudinary • AWS (Basic) • Jupyter Notebook • Postman
 
 ---
 
@@ -51,7 +51,7 @@ Git • GitHub • Vercel • Netlify • Cloudinary • AWS (Basic) • Jupyter
 ---
 
 ## 📄 Resume
-[Download Resume](https://github.com/HarshDhoriyani/HarshDhoriyani/blob/main/Harsh%20Dhoriyani%20-%20Resume.pdf)
+[Download Resume](https://github.com/HarshDhoriyani/HarshDhoriyani/blob/main/Harsh%20Dhoriyani%20Resume.pdf)
 
 ---
 
