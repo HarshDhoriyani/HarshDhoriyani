@@ -9,29 +9,31 @@
 ---
 
 ## 💫 About Me
-- 💻 Working on **Full Stack Development**
-- 🌱 Learning **Machine Learning**
-- 🎯 Looking for **Internships & Jobs (Full Stack / Frontend / Backend)**
+- 💻 Working on **Full Stack Development & Data Analytics**
+- 🎯 Looking for **Internships & Jobs (Full Stack / Data Analytics)**
 - 📫 Email: **harshdhoriyani03@gmail.com**
 - ⚡ Interests: Cricket & Table Tennis  
 
 ---
-
 ## 🛠️ Tech Stack
+
 **Languages:**  
-Java • Python • JavaScript  
+Java • Python • JavaScript • SQL
 
 **Frontend:**  
-HTML5 • CSS3 • ReactJs • TailwindCSS 
+HTML5 • CSS3 • React.js • Tailwind CSS
 
-**Backend:**  
-NodeJs • ExpressJs • MongoDB • MySQL • Docker   
+**Backend & Databases:**  
+Node.js • Express.js • REST APIs • MongoDB • MySQL • SQLite
+
+**Data Analytics & Visualization:**  
+Pandas • NumPy • Matplotlib • Seaborn • Power BI
 
 **AI/ML:**  
-TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy  
+Scikit-learn • TensorFlow • PyTorch
 
-**Tools:**  
-Git • GitHub • Vercel • Netlify • Cloudinary • AWS (Basic) • Jupyter Notebook • Postman
+**Tools & Platforms:**  
+Git • GitHub • Docker • Postman • Jupyter Notebook • Cloudinary • Vercel • Netlify
 
 ---
 
