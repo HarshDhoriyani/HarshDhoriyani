@@ -1,11 +1,11 @@
 # Hi, I'm Harsh Dhoriyani 👋
 
 ## 🚀 Projects
+- 🔗 [GovLens](https://github.com/HarshDhoriyani/GovLens) — Government Service Delivery Intelligence Platform
 - 🔗 [CircleChat](https://github.com/HarshDhoriyani/CircleChat) — Real-Time Conversation Platform
 - 🔗 [SpectraPi-PCAM-Precision-Steering](https://github.com/HarshDhoriyani/SpectraPi-PCAM-Precision-Steering) — Precision-Controlled Associative Memory
 - 🔗 [Swasthya Mitra](https://github.com/HarshDhoriyani/Swasthya-mitra) — AI-powered healthcare assistance system
 - 🔗 [CivicSpot](https://github.com/HarshDhoriyani/civicspot) — Civic issue reporting platform   
-- 🔗 [Codebase Memory Engine](https://github.com/HarshDhoriyani/Codebase-Memory-Engine)
 ---
 
 ## 💫 About Me
