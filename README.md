@@ -43,6 +43,6 @@ Git • GitHub • Docker • Postman • Cloudinary • Vercel • Render
 ---
 
 ## 📄 Resume & Connect
-- 📄 [Download Latest Resume](https://github.com/HarshDhoriyani/HarshDhoriyani/blob/main/Harsh%20Dhoriyani%20Resume.pdf)
+- 📄 [Download Latest Resume](https://github.com/HarshDhoriyani/HarshDhoriyani/blob/main/Harsh_Dhoriyani_SDE_Resume.pdf)
 - 💼 [LinkedIn](https://www.linkedin.com/in/harshdhoriyani)
 - 💻 [GitHub](https://github.com/HarshDhoriyani)
