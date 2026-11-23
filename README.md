@@ -36,11 +36,9 @@ Git • GitHub • Docker • Postman • Cloudinary • Vercel • Render
 
 ---
 
-<p align="center">
-  <a href="https://leetcode.com/u/Harsh_Dhoriyani/">
-    <img src="https://shields.io" />
-  </a>
-</p>
+## 🧠 Problem Solving
+- ✅ **300+ DSA Problems Solved** in Java on [LeetCode](https://leetcode.com/u/Harsh_Dhoriyani/)
+- 🏅 Earned the **100 Days Badge** for consistent algorithmic problem solving
 
 ---
 
