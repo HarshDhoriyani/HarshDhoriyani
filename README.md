@@ -10,7 +10,7 @@
 ---
 
 ## 💫 About Me
-- 🎓 Final-Year B.Tech CSE (AI & ML) Student at **VIT Bhopal University** (`9.05 CGPA`)
+- 🎓 Final-Year B.Tech Computer Science Student at **Vellore Institute of Technology** (`9.05 CGPA`)
 - 💻 Building **Full-Stack Web Applications (MERN)**, **Backend Systems**, and **Data Analytics Pipelines**
 - 🎯 Actively seeking **Full-Time SDE, Backend, Full Stack & Data Analyst Roles (2027 Batch)**
 - 📫 Email: **harshdhoriyani03@gmail.com**
