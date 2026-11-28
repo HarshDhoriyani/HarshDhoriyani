@@ -36,6 +36,13 @@ Git • GitHub • Docker • Postman • Cloudinary • Vercel • Render
 
 ---
 
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshDhoriyani&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
 ## 🧠 Problem Solving
 - ✅ **300+ DSA Problems Solved** in Java on [LeetCode](https://leetcode.com/u/Harsh_Dhoriyani/)
 - 🏅 Earned the **100 Days Badge** for consistent algorithmic problem solving
